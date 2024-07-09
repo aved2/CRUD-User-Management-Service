@@ -36,6 +36,9 @@ body {
       width: 0px !important;
       display: none !important;
     }
+    #deleteModal {
+      margin-top: 150px;
+    }
   }
   
   .sidebar-sticky {
